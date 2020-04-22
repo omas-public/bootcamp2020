@@ -85,6 +85,8 @@ GoogleChromeブラウザから以下の情報を入力してください。
 - URI: https://paiza.jp/sign_up
 - 新規登録 他のサービスIDで会員登録からGoogleアカウント(G Suite)で登録
 
+![paiza login](https://github.com/omas-public/bootcamp2020/blob/master/assets/paiza1.png)
+
 
 ## オンライン学習
 
@@ -122,7 +124,7 @@ ITの技術の中で最も重要なのがプログラミングです。本校で
 並行して [https://paiza.jp/codechronicle] を演習として行ってください。
 
 ![python学習](https://github.com/omas-public/bootcamp2020/blob/master/assets/python.png)
-![python演習](https://github.com/omas-public/bootcamp2020/blob/master/assets/paiza1.png)
+![python演習](https://github.com/omas-public/bootcamp2020/blob/master/assets/paiza2.png)
 
 #### note
 

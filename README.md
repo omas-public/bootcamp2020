@@ -125,6 +125,7 @@ ITの技術の中で最も重要なのがプログラミングです。本校で
 並行して [https://paiza.jp/codechronicle] を演習として行ってください。
 
 ![python学習](https://github.com/omas-public/bootcamp2020/blob/master/assets/python.png)
+![python演習](https://github.com/omas-public/bootcamp2020/blob/master/assets/code.png)
 
 #### note
 

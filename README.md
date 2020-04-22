@@ -50,11 +50,11 @@ SlackはIT系企業などで多く使われているビジネスチャットで�
 
 - URI:https://slack.com
 
-1. SLACKを始めるをクリックし[私のチームはすでにSlackを使用しています]をクリック
+1. SLACKを始めるをクリックし [私のチームはすでにSlackを使用しています] をクリック
 2. G Suitesのメールアドレスを入力してメールをチェック
 3. メールのリンクからit-college.slack.comに参加
 4. 氏名，パスワードを入力してアカウントを作成する
-5. [it-college内を検索する]で#bootcamp2020を検索しチャンネルに参加する
+5. [it-college内を検索する] で#bootcamp2020を検索しチャンネルに参加する
 
 
 ### タイピング 登録
@@ -106,8 +106,8 @@ BootCampではタイピングとプログラミングとUNIXコマンドを学�
 
 ITの技術の中で最も重要なのがプログラミングです。本校で最初に学ぶプログラム言語のPythonは近年最も注目されています。以下の教材をつかいプログラミングの基礎を学習します。
 
-登録したサイト[https://paiza.jp/works/python3/primer]にアクセスしてVideo学習を開始してください。
-並行して[https://paiza.jp/codechronicle]を演習として行ってください。
+登録したサイト [https://paiza.jp/works/python3/primer] にアクセスしてVideo学習を開始してください。
+並行して [https://paiza.jp/codechronicle] を演習として行ってください。
 
 #### note
 

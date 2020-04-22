@@ -1,7 +1,7 @@
 ----
 
 - Identifier: http://github.com/omas-public/bootcamp2020
-- Author: Omas Naohiko <omas@std.it-college.ac.jp>
+- Author: Omas Naohiko
 - Create: 2020-04-21
 - Update: 2020-04-22
 
@@ -29,7 +29,7 @@
 ### G Suite 登録
 
 G Suiteは，gmailを含むGoogleのクラウドコンピューティングWebアプリケーションです。
-本校では遠隔の講義を含む様々な連絡や課題提出等に使われます，卒業したあとも一生有効なアカウントです。
+本校では遠隔の講義を含む様々な連絡や課題提出等に使われます，卒業したあとも有効なアカウントです。
 
 GoogleChromeブラウザから以下の情報を入力してください。
 

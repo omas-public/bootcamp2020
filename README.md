@@ -1,9 +1,9 @@
 ----
 
 - Identifier: http://github.com/omas-public/bootcamp2020
-- Author: Omas Naohiko<omas@std.it-college.ac.jp>
+- Author: Omas Naohiko <omas@std.it-college.ac.jp>
 - Create: 2020-04-21
-- Update: 
+- Update: 2020-04-22
 
 ----
 
@@ -79,6 +79,8 @@ GoogleChromeブラウザから以下の情報を入力してください。
 
 ## オンライン学習
 
+上記の登録を終わらせてから学習を開始してください
+
 BootCampではタイピングとプログラミングとUNIXコマンドを学習します。学習時間は以下を目安にしてください。
 
 |科目         |時間       | 学習サイト  |
@@ -90,7 +92,7 @@ BootCampではタイピングとプログラミングとUNIXコマンドを学�
 
 ### タイピング学習
 
-登録したサイト[https://it-college.typingclub.com/signup/5C64WPE]にアクセスして学習を開始してください
+登録したサイト [https://it-college.typingclub.com/signup/5C64WPE] にアクセスして学習を開始してください
 
 タイピングは正く学べば，2週間もあれば誰でもできるようになります。**キーボードを絶対見ない** ことと **スピードより正確さ** に気をつけてください。USキーボード配列で行いますので一部の記号はキーボードの印字と違います("USキー配列")を検索，理由については("USキーボード配列 ITエンジニア")を検索してください。
 
@@ -118,6 +120,13 @@ ITの技術の中で最も重要なのがプログラミングです。本校で
 インターネットの世界ではUNIX系のOSが主流です。近年ではMAC OSやWindowsでもUNIXコマンドが使えます。
 本校ITスペシャリスト科，サイバーセキュリティ科では全ての講義をUNIX上で行います。
 
+登録したサイト[https://paiza.jp/works/Linux/primer]にアクセスしてVideo学習を開始してください。
 
+WindowsのアプリケーションからUbuntu 18.04 LTSでLinuxの実行環境を呼び出すことができます。
+Unix環境は堅牢にできていますので教科書を読みながら色々なコマンドを試してみましょう。
+
+#### note
+
+- account と password はwindows login と一緒になっています
 
 

@@ -37,6 +37,8 @@ GoogleChromeブラウザから以下の情報を入力してください。
 - account: 別紙参照
 - password: 別紙参照
 
+![gmail login](https://github.com/omas-public/bootcamp2020/blob/master/assets/gmail.png)
+
 #### note
 
 - ログインすると，パスワードの変更を促されます。パスワードを変更して次回からはそのパスワードでログインしてください。
@@ -56,6 +58,10 @@ SlackはIT系企業などで多く使われているビジネスチャットで�
 4. 氏名，パスワードを入力してアカウントを作成する
 5. [it-college内を検索する] で#bootcamp2020を検索しチャンネルに参加する
 
+![slack login](https://github.com/omas-public/bootcamp2020/blob/master/assets/slack.png)
+![it-college login](https://github.com/omas-public/bootcamp2020/blob/master/assets/slack2.png)
+
+
 
 ### タイピング 登録
 
@@ -63,6 +69,9 @@ GoogleChromeブラウザから以下の情報を入力してください。
 
 - URI: https://it-college.typingclub.com/signup/5C64WPE
 - account, password: 左のGoogleロゴをクリック
+
+![typing login](https://github.com/omas-public/bootcamp2020/blob/master/assets/typing.png)
+
 
 #### note
 
@@ -96,6 +105,9 @@ BootCampではタイピングとプログラミングとUNIXコマンドを学�
 
 タイピングは正く学べば，2週間もあれば誰でもできるようになります。**キーボードを絶対見ない** ことと **スピードより正確さ** に気をつけてください。USキーボード配列で行いますので一部の記号はキーボードの印字と違います("USキー配列")を検索，理由については("USキーボード配列 ITエンジニア")を検索してください。
 
+![us key](https://github.com/omas-public/bootcamp2020/blob/master/assets/1920px-US_ANSI_keyboard_character_layout_JIS_comparison.svg.png)
+
+
 #### note
 
 - コードの入力はWindows+Spaceを押し(ENG USキーボード)を選択すること
@@ -108,6 +120,9 @@ ITの技術の中で最も重要なのがプログラミングです。本校で
 
 登録したサイト [https://paiza.jp/works/python3/primer] にアクセスしてVideo学習を開始してください。
 並行して [https://paiza.jp/codechronicle] を演習として行ってください。
+
+![python学習](https://github.com/omas-public/bootcamp2020/blob/master/assets/python.png)
+![python演習](https://github.com/omas-public/bootcamp2020/blob/master/assets/paiza1.png)
 
 #### note
 

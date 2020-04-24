@@ -33,7 +33,7 @@ G Suiteは，gmailを含むGoogleのクラウドコンピューティングWeb�
 
 GoogleChromeブラウザから以下の情報を入力してください。
 
-- URI: https://gmail.std.it-college.ac.jp
+- URI: http://gmail.std.it-college.ac.jp
 - account: 別紙参照
 - password: 別紙参照
 

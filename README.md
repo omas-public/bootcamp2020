@@ -3,7 +3,7 @@
 - Identifier: http://github.com/omas-public/bootcamp2020
 - Author: Omas Naohiko
 - Create: 2020-04-21
-- Update: 2020-04-23
+- Update: 2020-04-24
 
 ----
 
@@ -97,14 +97,14 @@ BootCampではタイピングとプログラミングとUNIXコマンドを学�
 
 |科目         |時間       | 学習サイト                                        |
 |-------------|-----------|---------------------------------------------------|
-|タイピング   |1時間/日   | https://it-college.typingclub.com/signup/5C64WPE  |
+|タイピング   |1時間/日   | https://it-college.typingclub.com/                 |
 |Python学習   |1時間/日   | https://paiza.jp/works/python3/primer             |
 |Python演習   |2時間/日   | https://paiza.jp/codechronicle                    |
 |Unixコマンド |1時間/日   | https://paiza.jp/works/linux/primer               |
 
 ### タイピング学習
 
-登録したサイト [https://it-college.typingclub.com/signup/5C64WPE] にアクセスして学習を開始してください
+登録したサイト [https://it-college.typingclub.com/] にアクセスして学習を開始してください
 
 タイピングは正く学べば，2週間もあれば誰でもできるようになります。**キーボードを絶対見ない** ことと **スピードより正確さ** に気をつけてください。USキーボード配列で行いますので一部の記号はキーボードの印字と違います("USキー配列")を検索，理由については("USキーボード配列 ITエンジニア")を検索してください。
 
